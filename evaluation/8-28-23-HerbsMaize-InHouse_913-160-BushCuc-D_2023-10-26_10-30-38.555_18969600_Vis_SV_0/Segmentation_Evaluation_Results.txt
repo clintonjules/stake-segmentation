@@ -1,0 +1,7 @@
+File: <PIL.Image.Image image mode=L size=4384x6576 at 0x156B4AC40>
+IoU: 0.4961
+Dice: 0.6632
+Recall: 0.9625
+Precision: 0.5059
+Accuracy: 0.9986
+
