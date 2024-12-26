@@ -1,0 +1,12 @@
+IdTag: 828-100-BeanDragon-D
+Color: 0
+Creator: vincent
+Comment: 
+CarTag: 1100
+Measurement: 8-28-23-HerbsMaize-InHouse
+Timestamp: 09/04/2023 12:14:10
+Weight before [g]: 5898
+Weight after [g]: 6243
+Water amount [ml]: 352
+Water amount [g]: 0
+Overall config id: 1001200
